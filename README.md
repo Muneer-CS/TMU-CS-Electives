@@ -1,12 +1,17 @@
 # Elective Atlas
 
+
 Elective Atlas is a student-friendly guide to elective options for Toronto Metropolitan University Computer Science students. It brings lower liberals, upper liberals, open electives, and core electives into one searchable interface.
+
 
 ## Live website
 
+
 [Open Elective Atlas](https://muneer-cs.github.io/TMU-CS-Electives/)
 
+
 ## Features
+
 
 - Search by course code, title, topic, or description
 - Browse 130 Lower Liberal Studies courses
@@ -17,9 +22,12 @@ Elective Atlas is a student-friendly guide to elective options for Toronto Metro
 - Filter by inferred topic tags and core-elective group
 - Responsive layout for desktop and mobile devices
 
+
 ## Data and evidence
 
+
 The dataset is based on the official TMU 2026-2027 Undergraduate Calendar. It was cross-checked against:
+
 
 - The Computer Science program curriculum
 - Computer Science core-elective tables
@@ -28,39 +36,17 @@ The dataset is based on the official TMU 2026-2027 Undergraduate Calendar. It wa
 - Open Elective rules and exclusions
 - Individual official TMU course records
 
+
 The repository currently contains 3,971 unique course records. Topic tags are editorial inferences based on official titles and descriptions; they are not official TMU classifications.
+
 
 ## Important note
 
+
 Elective Atlas is an independent student project and is not affiliated with or endorsed by Toronto Metropolitan University. Calendar eligibility does not guarantee that a course is offered in a particular semester or that a student can enrol. Always confirm decisions using the official TMU Undergraduate Calendar and your Academic Advisement Report.
 
-## Local development
+## Copyright and use
 
-Requirements:
+Copyright (c) 2026 Muneer Mahmoud. All rights reserved.
 
-- Node.js 22.13 or newer
-- pnpm
-
-Install dependencies and start the development server:
-
-```bash
-pnpm install
-pnpm dev
-```
-
-Create and test the GitHub Pages build:
-
-```bash
-pnpm test
-```
-
-## Author
-
-Created by Muneer Mahmoud.
-
-- [GitHub](https://github.com/Muneer-CS)
-- [LinkedIn](https://www.linkedin.com/in/muneer-mahmoud/)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+This project is proprietary. Viewing the source on GitHub does not grant permission to use, copy, modify, distribute, sublicense, sell, or otherwise exploit it. See the [proprietary copyright notice](LICENSE). Third-party materials remain subject to their respective owners' rights and license terms.
